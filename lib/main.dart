@@ -50,7 +50,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   TextEditingController etInput = new TextEditingController();
 
-  //Menentukan variabel input
+  //Input
   double celcius = 0;
   double kelvin = 0;
   double fahrenheit = 0;
