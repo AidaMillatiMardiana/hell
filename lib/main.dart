@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
   double fahrenheit = 0;
   double reamur = 0;
 
-  // Melakukan konversi
+  // Konversi
   konversi() {
     //dengan state
     setState(() {
